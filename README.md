@@ -2,13 +2,13 @@
 **Author:** Emily Inga
 
 ## Project Overview
-This project leverages machine learning techniques to predict the birth weight of new borns using a dataset containing maternal and neonatal health data. The dataset includes features such as gestation period, materbal age, heigh, weight, smoking status and parity, alongside the target variable - birthweight.
+This project leverages machine learning techniques to predict the birth weight of newborns using a dataset containing maternal and neonatal health data. The dataset includes features such as gestation period, maternal age, height, weight, smoking status and parity, alongside the target variable - birthweight.
 
 ## The project is divided into the following key steps:
 ### 1. Data Preparation:
   - Loaded data directly from a public source
-  - Performed exploratory data analysis (EDA) to uncovere patterns and relationships
-  - Cleaned and imputed missing values using median or mode
+  - Performed exploratory data analysis (EDA) to uncover patterns and relationships
+  - Cleaned and inputted missing values using median and mode
   - Visualized data through correlation matrices, pair plots, and histograms
 ### 2. Feature Selection:
   - Identified key features with the highest predictive power, such as gestation period, maternal weight, and smoking status
